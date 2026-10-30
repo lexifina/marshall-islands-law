@@ -1,0 +1,197 @@
+{
+ "country": "MH",
+ "acts": [
+  {
+   "slug": "treaties",
+   "short": "Treaties",
+   "title": "Treaty actions of Marshall Islands recorded by WIPO Lex (facts only; no treaty text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+   "versions": [
+    {
+     "from": "1988-03-18",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1989-04-28",
+     "units": 2,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1991-08-09",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1992-10-08",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1993-03-11",
+     "units": 6,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1998-06-02",
+     "units": 7,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2002-04-24",
+     "units": 8,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2003-01-27",
+     "units": 10,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2003-08-11",
+     "units": 11,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2004-06-01",
+     "units": 14,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2004-12-08",
+     "units": 15,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2006-12-21",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2014-07-15",
+     "units": 17,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2014-10-10",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2015-03-17",
+     "units": 19,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2015-04-14",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 21,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2017-09-11",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2019-02-08",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2024-05-24",
+     "units": 26,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2025-03-12",
+     "units": 27,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    }
+   ]
+  },
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of laws of Marshall Islands recorded by WIPO Lex (title, date, link only; no law text)",
+   "url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+   "versions": [
+    {
+     "from": "1970-01-01",
+     "units": 2,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1979-05-01",
+     "units": 3,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1990-01-01",
+     "units": 4,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "1991-09-30",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 6,
+     "source_url": "https://www.wipo.int/wipolex/en/members/profile/MH",
+     "sha256": "fc210b8963b8b59a2974cb2a91e39d0620daabe4215ade547e8abf43f44a058e"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Legal system of Marshall Islands: open facts (Wikidata, WIPO Lex)",
+   "url": "https://www.wikidata.org/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 5,
+     "source_url": "https://query.wikidata.org/sparql",
+     "sha256": "5f7368c30721ab9e30093edcca1b48a3ac63835d2d794145246d4fed9aa87306"
+    }
+   ]
+  }
+ ]
+}
